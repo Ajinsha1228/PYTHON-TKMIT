@@ -1,0 +1,10 @@
+print ("Hello")
+print("World!")
+n = 1
+print(n)
+print(n*8)
+print(2,"ajin",8,"Hello")
+print("Hello",end = ' ')
+print ("World!")
+print("Hello",end= '-')
+print("World!")
